@@ -6,7 +6,7 @@ public class Demo1 {
 
 	public static void main(String[] args) {
 		ArrayList a=new ArrayList();
-		a.add"java 1.8")
+		a.add("java 1.8");
 		a.add(null);
 		a.add("php");
 		a.add("JDBC");
