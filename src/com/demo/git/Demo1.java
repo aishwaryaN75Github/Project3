@@ -12,6 +12,7 @@ public class Demo1 {
 		a.add("php");
 		a.add("JDBC");
 		System.out.println(a);
+		System.out.println("dev1 change in another packege");
 		Demo1.m1();
 		
 		
