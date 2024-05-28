@@ -10,8 +10,6 @@ public class Demo1 {
 		a.add("python");
 		a.add(null);
 		a.add("php");
-		a.add("JDBC");
-		System.out.println(a);
 		Demo1.m1();
 		
 		
